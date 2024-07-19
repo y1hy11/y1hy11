@@ -15,9 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=y1hy11&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=y1hy11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@y1hy1/30-nites-of-code)  
-  ![@y1hy1 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=y1hy1)
 
 
 ### ✍️ Random Dev Quote
