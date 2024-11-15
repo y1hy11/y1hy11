@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/y1hy1_1) [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yahya-elalaoui) [![Quora](https://img.shields.io/badge/Quora-%23B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://quora.com/profile/Y1hy11) [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/y1hy1_1) 
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yahya-elalaoui) [![Quora](https://img.shields.io/badge/Quora-%23B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://quora.com/profile/Y1hy11) [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/y1hy1_1) 
 
 
 # 💻 Tech Stack:
