@@ -1,5 +1,5 @@
 # 👋 Hii, I'm y1hy11!
-👯 I'm looking to team up on a project related to front-end development.<br>🤝 I’m looking for help with front-end development.<br>🌱 I’m currently learning React.<br>⚡ Fun fact Did you know that Yahya's GitHub username "y1hy11" is a clever play on his name? It's a creative way to represent his name in a username, making it easy to remember and unique!
+👯 I'm looking to team up on a project related to front-end development.<br>🌱 I’m currently learning React.<br>⚡ Fun fact Did you know that Yahya's GitHub username "y1hy11" is a clever play on his name? It's a creative way to represent his name in a username, making it easy to remember and unique!
 
 
 ## 🌐 Socials:
