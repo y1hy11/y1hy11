@@ -20,8 +20,5 @@
 ### ✍️ Quote of The Day:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=y1hy11&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with ❤ by y1hy11 with GPRM ( https://gprm.itsvg.in ) -->
 
